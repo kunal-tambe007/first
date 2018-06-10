@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is AC0B-80B2
+
+ Directory of C:\gitRepos\first
+
+06/10/2018  05:17 PM    <DIR>          .
+06/10/2018  05:17 PM    <DIR>          ..
+06/10/2018  04:55 PM               340 test.txt
+06/10/2018  05:17 PM                 0 third.txt
+               2 File(s)            340 bytes
+               2 Dir(s)  57,285,484,544 bytes free
